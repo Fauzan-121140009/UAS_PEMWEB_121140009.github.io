@@ -18,7 +18,7 @@ untuk masuk ke login harus memasukkan :
 
 <img width="960" alt="Screenshot 2023-12-18 062602" src="https://github.com/Fauzan-121140009/UAS_PEMWEB_121140009.github.io/assets/125173289/e241c73d-47e7-4c00-8fc8-a3e2a6ef1610">
 
-data dari server akan tampil kehalaman berupa data pendaftar
+pada halaman Home, data dari server akan tampil kehalaman berupa data pendaftar
 
 <img width="960" alt="Screenshot 2023-12-18 064145" src="https://github.com/Fauzan-121140009/UAS_PEMWEB_121140009.github.io/assets/125173289/0e8afb22-3300-4df1-979d-29b85ecc39df">
 
