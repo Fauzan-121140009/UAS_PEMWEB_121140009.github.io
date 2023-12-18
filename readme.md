@@ -54,7 +54,7 @@ Code pad web juga telah dilengkapi dengan cookie, Cookie pada web ini dapat digu
 
 ## Bagian 5: Hosting Aplikasi Web
 
-berikut link dari Web yan telah dihosting : 121140009-fauzan.kesug.com
+berikut link dari Web yan telah dihosting : https://121140009-fauzan.kesug.com
 
 
 
