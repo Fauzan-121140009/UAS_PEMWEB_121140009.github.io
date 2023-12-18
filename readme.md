@@ -53,8 +53,20 @@ Ini adalah fungsi yang penting untuk digunakan di awal skrip PHP jika Anda beren
 Code pad web juga telah dilengkapi dengan cookie, Cookie pada web ini dapat digunakan untuk menyimpan informasi otentikasi, membiarkan pengguna tetap masuk ke situs web tanpa perlu login setiap kali mereka mengunjungi halaman baru.
 
 ## Bagian 5: Hosting Aplikasi Web
+1. Apa langkah-langkah yang Anda lakukan untuk meng-host aplikasi web Anda?
+  -Pemilihan Provider: Pilih penyedia hosting seperti Infinityfree atau layanan lainnya.
+- Registrasi Akun: Buat akun di penyedia hosting yang dipilih.
+- Pengunggahan File: Upload file aplikasi web Anda menggunakan File Transfer - Protocol (FTP) atau kontrol panel yang disediakan oleh penyedia hosting.
+- Konfigurasi Database: Jika aplikasi Anda membutuhkan database, buat dan konfigurasikan database melalui panel kontrol hosting.
+Konfigurasi DNS: Sesuaikan pengaturan DNS agar domain terhubung ke hosting Anda.
 
-berikut link dari Web yan telah dihosting : https://121140009-fauzan.kesug.com
+2. saya memakai penyedia hosting dengan nama Infinityfree, karena Infitityfree menyediakan hosting gratis dengan fitur yang cukup untuk web yang sedangkan dikembangkan
+
+3. pada Infinityfree sudah menggunakan koneksi HTTPS dengan SSL/TLS untuk mengenkripsi data yang ditransmisikan antara server dan pengguna.
+   
+5. Saya menggunakan XAMPP untuk melakukan penyimpanan gambar dan data yang diperlukan. hal itu berguna untuk meningkatkan kinerja web 
+
+### berikut link dari Web yang telah dihosting : https://121140009-fauzan.kesug.com
 
 
 
