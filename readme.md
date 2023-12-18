@@ -13,8 +13,8 @@ Ini merupakan Proyek UAS Pemrograman Web mengenai Halaman admin untuk pendaftara
 Gambar diatas merupakan tampilan form input untuk admin organisasi
 
 untuk masuk ke login harus memasukkan :
-**ussername : fauzan
-password : 121140009**
+- **ussername : fauzan**
+- **password : 121140009**
 
 <img width="960" alt="Screenshot 2023-12-18 062602" src="https://github.com/Fauzan-121140009/UAS_PEMWEB_121140009.github.io/assets/125173289/e241c73d-47e7-4c00-8fc8-a3e2a6ef1610">
 
