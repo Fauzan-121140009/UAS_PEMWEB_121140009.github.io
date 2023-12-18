@@ -1,4 +1,3 @@
-<img width="451" alt="Screenshot 2023-12-18 080011" src="https://github.com/Fauzan-121140009/UAS_PEMWEB_121140009.github.io/assets/125173289/c54ad353-14b1-4a59-bc2e-037e31a664e8">
 # UAS Pemrograman Web
 
 ## FAUZAN
@@ -54,6 +53,8 @@ Ini adalah fungsi yang penting untuk digunakan di awal skrip PHP jika Anda beren
 Code pad web juga telah dilengkapi dengan cookie, Cookie pada web ini dapat digunakan untuk menyimpan informasi otentikasi, membiarkan pengguna tetap masuk ke situs web tanpa perlu login setiap kali mereka mengunjungi halaman baru.
 
 ## Bagian 5: Hosting Aplikasi Web
+
+berikut link dari Web yan telah dihosting : 121140009-fauzan.kesug.com
 
 
 
